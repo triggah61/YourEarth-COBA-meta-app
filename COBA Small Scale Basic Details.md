@@ -1,135 +1,135 @@
-﻿**COBA Small Scale Basic Details**
+﻿# **COBA Small Scale Basic Details**
 
-- Game Objective
-- What do we want to achieve?
-- Play to Earn meta application in a form of a game
-- Small scale Unreal based meta application under YE.
-- YE as master application, COBA will be the child application
-- Game Type
+### - Game Objective
+  - What do we want to achieve?
+    - Play to Earn meta application in a form of a game
+    - Small scale Unreal based meta application under YE.
+    - YE as master application, COBA will be the child application
+### - Game Type
   - MOBA (Boss wants a view transition effect from YE environment to COBA environment)
   - Small scale will be a 1v1 mode only
-- Game Play
+### - Game Play
   - Mechanics to win
     - Defeat the opponent by destroying opponent’s Base
   - Maps
-- Single lane map
-  - Modifiable with NFT
-- Tower
-  - 3 turrets
-    - Modifiable with NFT (in the future)
-    - Turret Level
-      - T1
-- 2000 HP
-- Attack
-- 320 dmg per atk
-- 6 atk per min
-- 400 atk dmg after 12 minutes
-- T2
-- 3500 HP
-- Attack
-- 360 dmg per atk
-- 6 atk per min
-- 440 atk dmg after 12 minutes
-- T3
-- 5000 HP
-- Attack
-- 420 per atk
-- 6 atk per min
-- 500 atk dmg after 12 minutes
-- Base
-  - Modifiable with NFT (in the future)
-  - 6000 HP
-  - Attack
-    - 540 dmg per atk
-    - 6 atk per min
-    - 620 atk dmg after 12 minutes
+  - Single lane map
+    - Modifiable with NFT
+  - Tower
+    - 3 turrets
+      - Modifiable with NFT (in the future)
+      - Turret Level
+        - T1
+          - 2000 HP
+          - Attack
+          - 320 dmg per atk
+          - 6 atk per min
+          - 400 atk dmg after 12 minutes
+        - T2
+          - 3500 HP
+          - Attack
+          - 360 dmg per atk
+          - 6 atk per min
+          - 440 atk dmg after 12 minutes
+        - T3
+          - 5000 HP
+          - Attack
+          - 420 per atk
+          - 6 atk per min
+          - 500 atk dmg after 12 minutes
+    - Base
+      - Modifiable with NFT (in the future)
+      - 6000 HP
+      - Attack
+        - 540 dmg per atk
+        - 6 atk per min
+        - 620 atk dmg after 12 minutes
     - Regen Area
       - Not attackable
       - Regen hero +25HP per seconds.
-- Game Unit
-  - Hero character
-    - In the future, character skills should be upgradable using NFT Based skills
-    - Starts with 600 gold with +1 gold per second
-    - Free spells:
-      - Teleportation:
-        - Allows hero to teleport user back to Regen Area
-        - Casting time 3 sec (not cancellable)
-        - Cooldown: 60 sec
-        - No mana required
-    - Stats (these are basic stats. May vary in the future based on the heroes created)
-      - Attack Range:
-        - Melee: up to 5 units
-        - Range: up to 12 units
-      - Type:
-        - Str
-- HP
-  - 1500 HP
-  - 5 HP Regen per sec
-- Mana
-  - 700 mana
-  - 1 mana regen per sec
-- Slow movement speed
-- Damage
-  - 60 base damage
-- Attack speed
-  - 1 atk per second
-- Minion Aura
-  - +10HP on all allied minion
-- Tower Aura
-- +100HP on all turret
-- Agi
-- HP
-  - 1200 HP
-  - 4 HP Regen per sec
-- Mana
-- 800 mana
-- 1.5 mana regen per sec
-- Fast movement speed
-- Damage
-  - 50 base damage
-- Attack speed
-  - 2 atk per second
-- Minion Aura
-  - +0.5 atk per second on all allied minion
-- Tower Aura
-- +0.5 atk per second on all turret
-- Int
-- HP
-  - 1200 HP
-  - 4 HP Regen per sec
-- Mana
-  - 1000 mana
-  - 2 mana regen per sec
-- Medium movement speed
-- Damage
-  - 50 base damage
-- tack speed
-  - 1.5 atk per second
-- Minion Aura
-  - +0.5 atk per second on all allied minion
-  - +10HP on all allied minion
-- Tower Aura
-  - +0.5 atk per second on all turret
-  - +100HP on all turret
-- Minion (allied creeps)
-  - Movement speed: 15 sec to reach T1 from spawn area
-  - Melee
-    - 2 melee minion every 30 sec
-    - Stats:
-      - HP
-        - 1000 HP
+  - Game Unit
+    - Hero character
+      - In the future, character skills should be upgradable using NFT Based skills
+      - Starts with 600 gold with +1 gold per second
+      - Free spells:
+        - Teleportation:
+          - Allows hero to teleport user back to Regen Area
+          - Casting time 3 sec (not cancellable)
+          - Cooldown: 60 sec
+          - No mana required
+      - Stats (these are basic stats. May vary in the future based on the heroes created)
+        - Attack Range:
+          - Melee: up to 5 units
+          - Range: up to 12 units
+        - Type:
+          - Str
+            - HP
+              - 1500 HP
+              - 5 HP Regen per sec
+            - Mana
+              - 700 mana
+              - 1 mana regen per sec
+            - Slow movement speed
+            - Damage
+              - 60 base damage
+            - Attack speed
+              - 1 atk per second
+            - Minion Aura
+              - +10HP on all allied minion
+            - Tower Aura
+            - +100HP on all turret
+           - Agi
+              - HP
+                - 1200 HP
+                - 4 HP Regen per sec
+              - Mana
+                - 800 mana
+                - 1.5 mana regen per sec
+              - Fast movement speed
+              - Damage
+                - 50 base damage
+              - Attack speed
+                - 2 atk per second
+              - Minion Aura
+                - +0.5 atk per second on all allied minion
+              - Tower Aura
+                - +0.5 atk per second on all turret
+          - Int
+            - HP
+              - 1200 HP
+              - 4 HP Regen per sec
+            - Mana
+              - 1000 mana
+              - 2 mana regen per sec
+            - Medium movement speed
+            - Damage
+              - 50 base damage
+            - tack speed
+              - 1.5 atk per second
+            - Minion Aura
+              - +0.5 atk per second on all allied minion
+              - +10HP on all allied minion
+            - Tower Aura
+              - +0.5 atk per second on all turret
+              - +100HP on all turret
+    - Minion (allied creeps)
+      - Movement speed: 15 sec to reach T1 from spawn area
+      - Melee
+        - 2 melee minion every 30 sec
+        - Stats:
+          - HP
+            - 1000 HP
         - 5 HP Regen per sec
       - Damage
         - 50 base damage
       - Attack speed
         - 1 atk per second
       - Attack Range:
-- Up to 2-5 units
-  - Gives 10 gold when slain
-  - Progressed stats every mins
-    - +10 HP per minute
-    - +2.5 base damage per minute
-    - +0.5 atk per second
+        - Up to 2-5 units
+      - Gives 10 gold when slain
+      - Progressed stats every mins
+        - +10 HP per minute
+        - +2.5 base damage per minute
+        - +0.5 atk per second
   - Range
     - 1 range minion every 30 sec
     - Stats:
