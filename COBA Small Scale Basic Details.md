@@ -1,4 +1,4 @@
-﻿# **COBA Small Scale Basic Details**
+﻿# **COBA Meta-application Scale Basic Details**
 
 ### - Game Objective
   - What do we want to achieve?
