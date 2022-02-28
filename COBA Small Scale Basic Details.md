@@ -187,8 +187,7 @@
       - Cost 250
       - +50% mana regen
 - Mini map
-- HUD UI:
-  - Search for keywords like: RPH UI. fantasy team UI
+- HUD UI
 - Betting
   - Zera for now
 - Own dedicated server
