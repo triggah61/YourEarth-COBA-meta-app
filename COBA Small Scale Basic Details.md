@@ -188,7 +188,6 @@
       - +50% mana regen
 - Mini map
 - HUD UI:
-  - <https://www.unrealengine.com/>
   - Search for keywords like: RPH UI. fantasy team UI
 - Betting
   - Zera for now
@@ -198,4 +197,3 @@
 
 - Numbers described above should be patchable in the future.
 - Asset purchasing is an option to fasten the delivery. Kindly discuss further details with Boss Sean when needed.
-- Helpful YT video: https://www.youtube.com/watch?v=aoHh5HAo2CI
